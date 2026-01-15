@@ -1,16 +1,31 @@
-## Hi there 👋
+# Nicolás Fernández Montenegro 
 
-<!--
-**NicolasFernandezMontenegro/NicolasFernandezMontenegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student @ FAMAF-UNC | Computer Analyst
 
-Here are some ideas to get you started:
+I am a 5th-year Computer Science student and a certified Computer Analyst. My work focuses on the intersection of **High-Performance Software** and **System Architecture**. I am passionate about low-level development, resource optimization, and building robust, scalable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Technical Stack
+
+- **Low-Level & Systems:** C, C++, SystemVerilog, VHDL, OS Kernel Modification.
+- **High-Performance:** Parallel Computing (CUDA, OpenMP), SIMD.
+- **High-Level & Scripting:** Python (FastAPI), Java, SQL, Haskell, Bash.
+- **Tools & Infrastructure:** Linux, Git/GitHub, Intel Quartus, STM32CubeIDE, LaTeX, Docker.
+
+---
+
+### Key Areas of Interest
+- **Software-Hardware Integration:** Understanding how code interacts with underlying infrastructure.
+- **Performance Optimization:** Designing algorithms that maximize throughput and efficiency.
+- **Embedded Systems:** Development and signal analysis for microcontrollers.
+
+---
+
+### Connect with me
+
+- **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/nicolas-fernandez-montenegro)
+- **Email:** [nicolasfernandezmontenegro@gmail.com](mailto:nicolasfernandezmontenegro@gmail.com)
+- **Location:** Córdoba, Argentina 🇦🇷
+
+---
