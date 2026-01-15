@@ -24,7 +24,7 @@ I am a 5th-year Computer Science student and a certified Computer Analyst. My wo
 
 ### Connect with me
 
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/nicolas-fernandez-montenegro)
+- **LinkedIn:** [linkedin.com/in/nicolas-fernandez-montenegro](https://linkedin.com/in/nicolas-fernandez-montenegro)
 - **Email:** [nicolasfernandezmontenegro@gmail.com](mailto:nicolasfernandezmontenegro@gmail.com)
 - **Location:** Córdoba, Argentina 🇦🇷
 
