@@ -1,24 +1,27 @@
 # Nicolás Fernández Montenegro 
 
-### Computer Science Student @ FAMAF-UNC | Computer Analyst
+### Computer Science Student @ FAMAF-UNC | Backend & Cloud Engineer
 
-I am a 5th-year Computer Science student and a certified Computer Analyst. My work focuses on the intersection of **High-Performance Software** and **System Architecture**. I am passionate about low-level development, resource optimization, and building robust, scalable systems.
+I am a 5th-year Computer Science student and a certified Computer Analyst focused on cloud-native backend systems and scalable architectures.
+
+I design and build REST APIs and AI-powered data processing pipelines using Python and Google Cloud (Cloud Run, Firestore, GCS, Document AI), with emphasis on scalability, security, and system reliability.
+
+My strong background in systems programming and high-performance computing gives me a deep understanding of concurrency, performance, and infrastructure behavior.
 
 ---
 
 ### Technical Stack
 
-- **Low-Level & Systems:** C, C++, SystemVerilog, VHDL, OS Kernel Modification.
-- **High-Performance:** Parallel Computing (CUDA, OpenMP), SIMD.
-- **High-Level & Scripting:** Python (FastAPI), Java, SQL, Haskell, Bash.
-- **Tools & Infrastructure:** Linux, Git/GitHub, Intel Quartus, STM32CubeIDE, LaTeX, Docker.
+- **Cloud & Backend:** Google Cloud (Cloud Run, Firestore, GCS, Document AI), FastAPI, Docker, Python.
+- **Systems & Performance:** C, C++, CUDA, OpenMP.
+- **Tools & Infrastructure:** Linux, Git/GitHub, SQL, Bash, LaTeX.
 
 ---
 
 ### Key Areas of Interest
-- **Software-Hardware Integration:** Understanding how code interacts with underlying infrastructure.
-- **Performance Optimization:** Designing algorithms that maximize throughput and efficiency.
-- **Embedded Systems:** Development and signal analysis for microcontrollers.
+- **Cloud-Native Architecture:** Designing stateless services optimized for autoscaling and reliability.
+- **Scalable API Design:** Secure, maintainable backend systems for data-intensive workflows.
+- **Systems & Performance Engineering:** Understanding how low-level constraints impact high-level architecture decisions..
 
 ---
 
